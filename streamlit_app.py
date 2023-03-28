@@ -103,7 +103,7 @@ def autoplay_audio(file_path: str):
         )
 
    
-st.title('Image Captioner')
+st.title('Vision 60')
 
 
 
